@@ -1,0 +1,12 @@
+{
+  "id": "HeartSeekerPatcher",
+  "name": "HeartSeeker Patcher",
+  "author": "iggyluer",
+  "version": "1.0.0",
+  "released": "1/1/1",
+  "updated": "1/1/1",
+  "description": "Patcher to change bows into short/long/greatbows and crossbows into light/heavy/siege xbows",
+  "requires": ["unifiedPatchingFramework"],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
