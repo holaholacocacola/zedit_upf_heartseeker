@@ -2,6 +2,8 @@
 # zedit_upf_heartseeker
 #### Zedit patcher for heartseeker
 
+This comes as part of the download from nexus. You do not need to download this unless you want to fork in your own changes.
+
 Requirements:
 ------------
 [zedit](https://github.com/z-edit/zedit/releases)
